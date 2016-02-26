@@ -1,0 +1,43 @@
+.return-bar{
+    padding-top: 5px;
+}
+
+.return-bar h1{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    
+}
+
+.return{
+    border-bottom: 10px solid #005AB5;
+}
+
+.list-element{
+    height: 170px;
+}
+
+.list-pic{
+    height: 140px;
+}
+
+.list-element img{
+    height:100px;
+    width:100px;
+    align-content: center;
+    padding-top:40px;
+}
+
+.list-detail{
+    height: 100px;
+}
+
+.list-validation{
+    height:40px;
+}
+
+.list-validation h3{
+    background-color: blue;
+    color: white;
+    padding: 5px 5px 5px 5px;
+}

@@ -1,0 +1,13 @@
+.return-bar{
+    padding-top: 5px;
+}
+
+.return-bar h1{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+.return{
+    border-bottom: 10px solid #005AB5;
+}
